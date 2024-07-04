@@ -1,0 +1,9 @@
+** In the merge function: Ages are changed from nominal to categorical with dummies. Whats the intuition behind this?
+
+From the powerpoint visualizations, it actually seems like a neural network performed better...
+
+How exactly is the rolling window working? Are there 4 different models?
+
+
+
+{'learning_rate': 0.0028976446685716, 'n_estimators': 466, 'max_depth': 11, 'colsample_bytree': 0.6066635754661189, 'scale_pos_weight': 977.9919766276578, 'min_child_weight': 2, 'gamma': 0.0003005922274502197}. Best is trial 588 with value: 0.9137632271778268
